@@ -1,0 +1,5 @@
+C:\Users\N'Namdi\documents\visual studio 2015\Projects\Save the Humans-redux\Save the Humans-redux\obj\Debug\Save the Humans-redux.csprojResolveAssemblyReference.cache
+C:\Users\N'Namdi\documents\visual studio 2015\Projects\Save the Humans-redux\Save the Humans-redux\obj\Debug\MainWindow.g.cs
+C:\Users\N'Namdi\documents\visual studio 2015\Projects\Save the Humans-redux\Save the Humans-redux\obj\Debug\App.g.cs
+C:\Users\N'Namdi\documents\visual studio 2015\Projects\Save the Humans-redux\Save the Humans-redux\obj\Debug\Save the Humans-redux_MarkupCompile.cache
+C:\Users\N'Namdi\documents\visual studio 2015\Projects\Save the Humans-redux\Save the Humans-redux\obj\Debug\Save the Humans-redux_MarkupCompile.lref
